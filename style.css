@@ -1,0 +1,22 @@
+body{
+	padding: 50px;
+	background-color: black;
+	color: #03a9f4;
+}
+h1{
+	color: lightgreen;
+}
+h2{
+	color: lime;
+}
+h3{
+	color: #009688;
+	display: inline;
+}
+a{
+	color: #e02bff;
+	text-decoration: none;
+	display: inline-block;
+	padding: 5px;
+	background-color: #46204c;
+}
